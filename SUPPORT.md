@@ -9,4 +9,10 @@ If you need help with Netdata:
   - If you're not sure how to ask a good question, check out the [topic](https://community.netdata.cloud/t/how-to-submit-a-good-question/469/7) we created of tips to help us help you.
 
 
-   
+   ACLK Available: Yes
+ACLK Implementation: Next Generation
+New Cloud Protocol Support: Yes
+Claimed: Yes
+Claimed Id: 53aa76c2-8af5-448f-849a-b16872cc4ba1
+Online: Yes
+Used Cloud Protocol: New
